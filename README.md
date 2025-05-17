@@ -17,7 +17,7 @@
 
 ## 📸 Preview
 
-> _Coming soon..._ (Add a screenshot or gif of the interface here!)
+![RustyNotes Screenshot](Screenshot.png)
 
 ---
 
@@ -26,12 +26,12 @@
 ### Prerequisites
 
 - Rust (latest stable version)  
-  Install Rust: https://rustup.rs/
+  Install Rust: <https://rustup.rs/>
 
 ### Build & Run
 
 ```bash
-git clone https://github.com/yourusername/rustynotes.git
+git clone https://github.com/hacker777-cris/rustynotes.git
 cd rustynotes
 cargo run
 ```
